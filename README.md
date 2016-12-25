@@ -1,2 +1,2 @@
 # express-react-redux
-Expressjs, React and Redux
+Expressjs, React and Redux.
